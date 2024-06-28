@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "email": "user3@gmail.com",
+      "password": "$2a$10$zbh.uLsLv6jKcvZNKU9.dOObpl//iJPxjgB.JL5yTIjW2Y9ki.ZVy",
+      "fullname": "hoang hieu",
+      "cpassword": "1234567",
+      "id": 1
+    },
+    {
+      "email": "user1@gmail.com",
+      "password": "$2a$10$MAkck5o8j5GGMQ8UEne/KuP9fdhMIJ0R.AZs9M8DIWj97UeBOnDzK",
+      "fullname": "hoang hieu",
+      "cpassword": "1234567",
+      "id": 2
+    }
+  ]
+}
