@@ -458,7 +458,7 @@ label {
 
 .auth .toggle-password.show:after,
 .auth .toggle-password:after {
-  font-family: Font Awesome\6 Pro;
+  font-family: "Font Awesome 6 Free";
   font-weight: 900;
   text-align: center;
   white-space: nowrap;

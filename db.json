@@ -13,6 +13,13 @@
       "fullname": "hoang hieu",
       "cpassword": "1234567",
       "id": 2
+    },
+    {
+      "email": "user10@gmail.com",
+      "password": "$2a$10$1DyjSwOd2a41F0id1zVqNuvoXpo1hvgGNbMKsA2XX4Tn5Y0y6i8LS",
+      "fullname": "test1",
+      "cpassword": "1234567",
+      "id": 3
     }
   ]
 }
